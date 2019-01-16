@@ -1,4 +1,5 @@
 //CPP PROGRAM TO THE GOOGLE CASE PROBLEM.
+//AN EXAMPLE PROGRAM
 
 #include <bits/stdc++.h>
 using namespace std;
